@@ -59,5 +59,7 @@
   (above (rectangle_x x) (rectangle12 x)))
 
 
+(boat 7)
+
 
 
